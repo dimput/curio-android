@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1072291225188",
+    "firebase_url": "https://sijunjung-geopark.firebaseio.com",
+    "project_id": "sijunjung-geopark",
+    "storage_bucket": "sijunjung-geopark.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072291225188:android:4b34d85375a0421d",
+        "android_client_info": {
+          "package_name": "com.example.mutiarafitritasir.sigeo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072291225188-vvv2ht7h5k31bjfbtm4f340o1kursua9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mutiarafitritasir.sigeo",
+            "certificate_hash": "aeac658c1338cd66af91ebfe41a46f1fd97ba9d4"
+          }
+        },
+        {
+          "client_id": "1072291225188-aim6tiq7g0hp0e9m7fc67hojeuiv88ha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mutiarafitritasir.sigeo",
+            "certificate_hash": "9011600ed1936ed55a1029fa47531b0f4066409c"
+          }
+        },
+        {
+          "client_id": "1072291225188-roab6hk3hj5639fle6a3l91ssr93lcj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA62Bt255eF6QYD1DtLqWpvyxVHa6_R_Kw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072291225188-roab6hk3hj5639fle6a3l91ssr93lcj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

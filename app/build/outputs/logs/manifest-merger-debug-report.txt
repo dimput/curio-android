@@ -1,0 +1,280 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\dead78a62cc14f414fd2e97cbed8039c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\afd194b91fe6fa7dedcbb74e571707a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.6.0.aar\60f8e0ab849cc5d1b9756ad9b60bf358\AndroidManifest.xml:16:1-21:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ba764b84045a7caed8e0b7a7e95fac6f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\3b31fb9ac5f2859c78702c11585e86ca\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-common:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\1c74c0594f387ae415cfa5a8f7ce79e9\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\18a25977f1fc5ae4d90f302df141d6f4\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\b29840810b466e379138acb034bc9d87\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\4203331ca3d53689e0e6b9499adf9f2b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\1c0b8f0fb5d2d025dfb73dcb47424921\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\91d55da6e6e348b70183db56413929ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\469a6fc7ad4a037a8f8b239bac473328\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e24dc07226f522d21a6e441c198709e6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\b6e5f2d01dd2e2abe7bf1e4f0c434a85\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\4c77bc84cfb2336b7c1e7b4b8e9622ed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\73f639ba00fa3d3e699fe44f91fc70e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\4b6f697eef9284565680ab8ce321e127\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\7c0cc99d00c4e491ea247350e18ed422\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\8c95f4d1d958b42c3664c61e8e7531e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\b70b19c9b32a578c088b37879b6d852d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\0b56128c72d955243dc1cdbff717f722\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a18b84a66a895e00b7a5a87b99ae59ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\574e3672b351e7b7cbc1ec0ffa78846e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\f0251f3f939264cecff31b8e90f8b7bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\d67dada4c7c4a3d9a4271cb28e0e39fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6ac7183b8cd4c2fbe4e0cb39a1706982\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a180845cf06272ecafea84bd7b9eb052\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e7e7a25ffc09dbdb21080ddfdc9120ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\0f2674249a2db7e36daaaa2005699c6f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\924250c43ece54e98ab103deca9d515a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\69cb98efdc4150f7ed491b6349d9772b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\68544b1fd6a46fb17ab1e31b445ca269\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\8e77359bdde724c10fc50c5445cc9b4e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ea93a7b3fcaa4bdd21069b7450ffda7d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\29b6180ec7b7b7eca03e2ff6f9bb9b44\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\93591d9134f41e77b4c5c8746aff13cb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7c751c521b01f9f64613015c983b188b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d01cf2b80054fd51732dd21e87074beb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.6.0.aar\548f42b973160b6093b57282baf05f50\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\e13762b5e94d992228c911c67a518fc1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\b7bc56ff7437995c5d67dab2051c6040\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.6.0.aar\44384b139c05d99513c2e1fcbf46ba6c\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\76f680b75c66eb7dee9a2cf374cabaee\AndroidManifest.xml:2:1-6:12
+INJECTED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:8:22-69
+application
+ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:10:5-29:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\dead78a62cc14f414fd2e97cbed8039c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\dead78a62cc14f414fd2e97cbed8039c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.6.0.aar\60f8e0ab849cc5d1b9756ad9b60bf358\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.6.0.aar\60f8e0ab849cc5d1b9756ad9b60bf358\AndroidManifest.xml:19:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ba764b84045a7caed8e0b7a7e95fac6f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ba764b84045a7caed8e0b7a7e95fac6f\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\3b31fb9ac5f2859c78702c11585e86ca\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\3b31fb9ac5f2859c78702c11585e86ca\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-common:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\1c74c0594f387ae415cfa5a8f7ce79e9\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\1c74c0594f387ae415cfa5a8f7ce79e9\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\18a25977f1fc5ae4d90f302df141d6f4\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\18a25977f1fc5ae4d90f302df141d6f4\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\b29840810b466e379138acb034bc9d87\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\b29840810b466e379138acb034bc9d87\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6ac7183b8cd4c2fbe4e0cb39a1706982\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6ac7183b8cd4c2fbe4e0cb39a1706982\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a180845cf06272ecafea84bd7b9eb052\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a180845cf06272ecafea84bd7b9eb052\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.6.0.aar\548f42b973160b6093b57282baf05f50\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.6.0.aar\548f42b973160b6093b57282baf05f50\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\e13762b5e94d992228c911c67a518fc1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\e13762b5e94d992228c911c67a518fc1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\b7bc56ff7437995c5d67dab2051c6040\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\b7bc56ff7437995c5d67dab2051c6040\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.6.0.aar\44384b139c05d99513c2e1fcbf46ba6c\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.6.0.aar\44384b139c05d99513c2e1fcbf46ba6c\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\76f680b75c66eb7dee9a2cf374cabaee\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\76f680b75c66eb7dee9a2cf374cabaee\AndroidManifest.xml:5:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6ac7183b8cd4c2fbe4e0cb39a1706982\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.mutiarafitritasir.sigeo.SplashActivity
+ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:17:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.example.mutiarafitritasir.sigeo.LoginActivity
+ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:24:9-51
+	android:name
+		ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:24:19-48
+activity#com.example.mutiarafitritasir.sigeo.HomeActivity
+ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:25:9-50
+	android:name
+		ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:25:19-47
+activity#com.example.mutiarafitritasir.sigeo.ForgetPasswordActivity
+ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:26:9-60
+	android:name
+		ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:26:19-57
+activity#com.example.mutiarafitritasir.sigeo.ProfileActivity
+ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:27:9-53
+	android:name
+		ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:27:19-50
+activity#com.example.mutiarafitritasir.sigeo.RegisterActivity
+ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:28:9-63
+	android:name
+		ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml:28:19-51
+uses-sdk
+INJECTED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\dead78a62cc14f414fd2e97cbed8039c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\dead78a62cc14f414fd2e97cbed8039c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\afd194b91fe6fa7dedcbb74e571707a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\afd194b91fe6fa7dedcbb74e571707a1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.6.0.aar\60f8e0ab849cc5d1b9756ad9b60bf358\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.6.0.aar\60f8e0ab849cc5d1b9756ad9b60bf358\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ba764b84045a7caed8e0b7a7e95fac6f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ba764b84045a7caed8e0b7a7e95fac6f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\3b31fb9ac5f2859c78702c11585e86ca\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\3b31fb9ac5f2859c78702c11585e86ca\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\1c74c0594f387ae415cfa5a8f7ce79e9\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\1c74c0594f387ae415cfa5a8f7ce79e9\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\18a25977f1fc5ae4d90f302df141d6f4\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\18a25977f1fc5ae4d90f302df141d6f4\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\b29840810b466e379138acb034bc9d87\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\b29840810b466e379138acb034bc9d87\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\4203331ca3d53689e0e6b9499adf9f2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\4203331ca3d53689e0e6b9499adf9f2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\1c0b8f0fb5d2d025dfb73dcb47424921\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\1c0b8f0fb5d2d025dfb73dcb47424921\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\91d55da6e6e348b70183db56413929ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\91d55da6e6e348b70183db56413929ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\469a6fc7ad4a037a8f8b239bac473328\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\469a6fc7ad4a037a8f8b239bac473328\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e24dc07226f522d21a6e441c198709e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e24dc07226f522d21a6e441c198709e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\b6e5f2d01dd2e2abe7bf1e4f0c434a85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\b6e5f2d01dd2e2abe7bf1e4f0c434a85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\4c77bc84cfb2336b7c1e7b4b8e9622ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\4c77bc84cfb2336b7c1e7b4b8e9622ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\73f639ba00fa3d3e699fe44f91fc70e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\73f639ba00fa3d3e699fe44f91fc70e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\4b6f697eef9284565680ab8ce321e127\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\4b6f697eef9284565680ab8ce321e127\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\7c0cc99d00c4e491ea247350e18ed422\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\7c0cc99d00c4e491ea247350e18ed422\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\8c95f4d1d958b42c3664c61e8e7531e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\8c95f4d1d958b42c3664c61e8e7531e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\b70b19c9b32a578c088b37879b6d852d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\b70b19c9b32a578c088b37879b6d852d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\0b56128c72d955243dc1cdbff717f722\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\0b56128c72d955243dc1cdbff717f722\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a18b84a66a895e00b7a5a87b99ae59ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a18b84a66a895e00b7a5a87b99ae59ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\574e3672b351e7b7cbc1ec0ffa78846e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\574e3672b351e7b7cbc1ec0ffa78846e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\f0251f3f939264cecff31b8e90f8b7bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\f0251f3f939264cecff31b8e90f8b7bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\d67dada4c7c4a3d9a4271cb28e0e39fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\d67dada4c7c4a3d9a4271cb28e0e39fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6ac7183b8cd4c2fbe4e0cb39a1706982\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6ac7183b8cd4c2fbe4e0cb39a1706982\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a180845cf06272ecafea84bd7b9eb052\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a180845cf06272ecafea84bd7b9eb052\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e7e7a25ffc09dbdb21080ddfdc9120ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e7e7a25ffc09dbdb21080ddfdc9120ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\0f2674249a2db7e36daaaa2005699c6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\0f2674249a2db7e36daaaa2005699c6f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\924250c43ece54e98ab103deca9d515a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\924250c43ece54e98ab103deca9d515a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\69cb98efdc4150f7ed491b6349d9772b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\69cb98efdc4150f7ed491b6349d9772b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\68544b1fd6a46fb17ab1e31b445ca269\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\68544b1fd6a46fb17ab1e31b445ca269\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\8e77359bdde724c10fc50c5445cc9b4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\8e77359bdde724c10fc50c5445cc9b4e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ea93a7b3fcaa4bdd21069b7450ffda7d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ea93a7b3fcaa4bdd21069b7450ffda7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\29b6180ec7b7b7eca03e2ff6f9bb9b44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\29b6180ec7b7b7eca03e2ff6f9bb9b44\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\93591d9134f41e77b4c5c8746aff13cb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\93591d9134f41e77b4c5c8746aff13cb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7c751c521b01f9f64613015c983b188b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7c751c521b01f9f64613015c983b188b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d01cf2b80054fd51732dd21e87074beb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d01cf2b80054fd51732dd21e87074beb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.6.0.aar\548f42b973160b6093b57282baf05f50\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.6.0.aar\548f42b973160b6093b57282baf05f50\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\e13762b5e94d992228c911c67a518fc1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\e13762b5e94d992228c911c67a518fc1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\b7bc56ff7437995c5d67dab2051c6040\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\b7bc56ff7437995c5d67dab2051c6040\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.6.0.aar\44384b139c05d99513c2e1fcbf46ba6c\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.6.0.aar\44384b139c05d99513c2e1fcbf46ba6c\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\76f680b75c66eb7dee9a2cf374cabaee\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\76f680b75c66eb7dee9a2cf374cabaee\AndroidManifest.xml:4:5-43
+INJECTED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dimas\AndroidStudioProjects\SiGeo\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\3b31fb9ac5f2859c78702c11585e86ca\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\3b31fb9ac5f2859c78702c11585e86ca\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\3b31fb9ac5f2859c78702c11585e86ca\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\3b31fb9ac5f2859c78702c11585e86ca\AndroidManifest.xml:19:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\1c74c0594f387ae415cfa5a8f7ce79e9\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\1c74c0594f387ae415cfa5a8f7ce79e9\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\1c74c0594f387ae415cfa5a8f7ce79e9\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\1c74c0594f387ae415cfa5a8f7ce79e9\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\1c74c0594f387ae415cfa5a8f7ce79e9\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\b29840810b466e379138acb034bc9d87\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\b29840810b466e379138acb034bc9d87\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\dimas\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\b29840810b466e379138acb034bc9d87\AndroidManifest.xml:20:20-65
